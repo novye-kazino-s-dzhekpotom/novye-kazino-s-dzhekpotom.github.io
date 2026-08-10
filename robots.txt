@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: novye-kazino-s-dzhekpotom.github.io
+Sitemap: https://novye-kazino-s-dzhekpotom.github.io/sitemap.xml
